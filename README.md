@@ -2,5 +2,5 @@
 
 Developed with Unreal Engine 4
 * Physics helicopter
-* Helecoper control
+* Helecopter control
 * Enter/Exit in helicopter
